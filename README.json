@@ -1,0 +1,322 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GCC4Symbian",
+          "description": "Scripts to compile bleeding-edge GCC for Symbian. Releases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-06-15T18:25:48Z",
+            "owner": "fedor4ever",
+            "repo": "GCC4Symbian",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qt Quick Components for Symbian",
+          "description": "QML-based UI components for Symbian homescreen widgets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-07-10T16:27:20Z",
+            "owner": "djbozkosz",
+            "repo": "Symbian-HomeScreen-Widget-QML",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dictionaries",
+          "description": "A collection of open-source dictionaries for Symbian OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-11T18:29:12Z",
+            "owner": "goldendict",
+            "repo": "goldendict",
+            "stars": 6637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whisk3D",
+          "description": "2D/3D creation tool for modeling, rendering, animation, and game development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T21:28:38Z",
+            "owner": "Dante-Leoncini",
+            "repo": "Whisk3D-Editor",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fahrplan",
+          "description": "Public transport schedule viewer with offline support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-06-03T16:13:44Z",
+            "owner": "smurfy",
+            "repo": "fahrplan",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CuteTube",
+          "description": "A YouTube client for Symbian OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-01-27T21:31:44Z",
+            "owner": "marxoft",
+            "repo": "cutetube2",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QRemoteControl-Client",
+          "description": "A remote control client application for Symbian.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "QML",
+            "last_commit": "2016-03-23T14:53:17Z",
+            "owner": "machinekoder",
+            "repo": "QRemoteControl-Client",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FShell",
+          "description": "Command-line shell for Symbian OS with scripting capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-04-10T18:26:11Z",
+            "owner": "d3ru",
+            "repo": "FShell",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FileList",
+          "description": "Qt Quick app for browsing multimedia files and launching them in external apps (e.g., opening images in Photos).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-04-25T11:14:37Z",
+            "owner": "ltomuta",
+            "repo": "filelist",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Star Browser",
+          "description": "A Qt-based web browser for Symbian Anna/Belle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-09-11T21:45:56Z",
+            "owner": "Allstar12345",
+            "repo": "Star-Browser-Symbian",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanoCounter",
+          "description": "A lightweight counter app for Symbian.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-04-15T18:15:50Z",
+            "owner": "vitalii17",
+            "repo": "NanoCounter",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RotateIt",
+          "description": "A screen rotation utility for Symbian devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-09-08T17:00:36Z",
+            "owner": "vitalii17",
+            "repo": "RotateIt",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "internet-radio",
+          "description": "Streaming radio player with playlist management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-04-02T19:49:08Z",
+            "owner": "fedor4ever",
+            "repo": "internet-radio",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Native Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome CPP",
+          "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T08:08:58Z",
+            "owner": "fffaraz",
+            "repo": "awesome-cpp",
+            "stars": 72750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome J2ME",
+          "description": "An awesome list about Java Platform Micro Edition (J2ME), a Java specification for small computing devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T03:38:34Z",
+            "owner": "hstsethi",
+            "repo": "awesome-j2me",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symbian Archive",
+          "description": "Archive and website for Symbian-related downloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-12-05T23:33:09Z",
+            "owner": "mrRosset",
+            "repo": "Symbian-Archive",
+            "stars": 185
+          }
+        }
+      ],
+      "title": "Related Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "E32Explorer",
+          "description": "A tool that visualizes different parts of a Symbian OS E32Image, including preliminary support for the TRomImage format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-11-05T15:11:39Z",
+            "owner": "mrRosset",
+            "repo": "E32Explorer",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RomBrowser",
+          "description": "A utility for visualizing ROM dump contents. ROM images can be produced using romdump or SDumper (dead).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-22T19:19:38Z",
+            "owner": "Florin9doi",
+            "repo": "rombrowser",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Reverse Engineering"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Symbian C++ by А. Н Труфанов",
+          "description": "A Russian book on C++ programming for Symbian 9.x, published in 2010.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-08T12:21:04Z",
+            "owner": "trufanov-nok",
+            "repo": "SymbianBook_ru",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Step by step tutorial for your first Symbian Application",
+          "description": "A tutorial to develop your first Symbian application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2011-07-05T13:11:45Z",
+            "owner": "sapandiwakar",
+            "repo": "Symbian-Application-Development-Tutorials",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:17.810Z",
+    "original_repository": "hstsethi/awesome-symbian",
+    "original_repository_sha": "c6ee7f5b458239136fdd355e81cfab049d7a7a10",
+    "enhanced_repository": "enhansome/enhansome-symbian",
+    "enhanced_repository_description": null,
+    "title": "Awesome Symbian with stars"
+  }
+}
