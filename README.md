@@ -83,7 +83,7 @@
 
 ## Related Projects
 
-* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 72,750 | 🐛 312 | 📅 2026-08-04 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 72,759 | 🐛 312 | 📅 2026-08-04 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) ⭐ 405 | 🐛 1 | 🌐 Java | 📅 2026-07-28 - An awesome list about Java Platform Micro Edition (J2ME), a Java specification for small computing devices.
 * [Symbian Archive](https://github.com/mrRosset/Symbian-Archive) ⭐ 185 | 🐛 35 | 🌐 CSS | 📅 2019-12-05 - Archive and website for Symbian-related downloads.
 * [nnproject.cc](https://nnproject.cc) - Website of nnproject. Curated list of Symbian and J2ME-related resources.
@@ -140,4 +140,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
