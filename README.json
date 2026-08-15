@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T18:56:44Z",
+            "last_commit": "2026-08-15T22:43:12Z",
             "owner": "Dante-Leoncini",
             "repo": "Whisk3D-Editor",
             "stars": 274
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-04T08:08:58Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72767
+            "stars": 72778
           }
         },
         {
@@ -312,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:41:02.858Z",
+    "last_updated": "2026-08-15T23:37:12.632Z",
     "original_repository": "hstsethi/awesome-symbian",
     "original_repository_sha": "c6ee7f5b458239136fdd355e81cfab049d7a7a10",
     "enhanced_repository": "enhansome/enhansome-symbian",
