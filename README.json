@@ -48,7 +48,7 @@
             "last_commit": "2025-10-11T18:29:12Z",
             "owner": "goldendict",
             "repo": "goldendict",
-            "stars": 6636
+            "stars": 6637
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T22:43:12Z",
+            "last_commit": "2026-08-16T23:03:20Z",
             "owner": "Dante-Leoncini",
             "repo": "Whisk3D-Editor",
-            "stars": 274
+            "stars": 275
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-04T08:08:58Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72778
+            "stars": 72788
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2019-12-05T23:33:09Z",
             "owner": "mrRosset",
             "repo": "Symbian-Archive",
-            "stars": 185
+            "stars": 186
           }
         }
       ],
@@ -312,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:37:12.632Z",
+    "last_updated": "2026-08-16T23:36:36.314Z",
     "original_repository": "hstsethi/awesome-symbian",
     "original_repository_sha": "c6ee7f5b458239136fdd355e81cfab049d7a7a10",
     "enhanced_repository": "enhansome/enhansome-symbian",
