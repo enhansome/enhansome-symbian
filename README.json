@@ -48,7 +48,7 @@
             "last_commit": "2025-10-11T18:29:12Z",
             "owner": "goldendict",
             "repo": "goldendict",
-            "stars": 6641
+            "stars": 6642
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-17T05:12:47Z",
             "owner": "Dante-Leoncini",
             "repo": "Whisk3D-Editor",
-            "stars": 277
+            "stars": 278
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-04T08:08:58Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72803
+            "stars": 72821
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-07-28T03:38:34Z",
             "owner": "hstsethi",
             "repo": "awesome-j2me",
-            "stars": 407
+            "stars": 408
           }
         },
         {
@@ -312,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:40:54.122Z",
+    "last_updated": "2026-08-18T23:40:15.538Z",
     "original_repository": "hstsethi/awesome-symbian",
     "original_repository_sha": "c6ee7f5b458239136fdd355e81cfab049d7a7a10",
     "enhanced_repository": "enhansome/enhansome-symbian",
