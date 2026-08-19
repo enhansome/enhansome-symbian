@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59125055,
             "language": "C",
             "last_commit": "2022-06-15T18:25:48Z",
             "owner": "fedor4ever",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40208861,
             "language": "C++",
             "last_commit": "2018-07-10T16:27:20Z",
             "owner": "djbozkosz",
@@ -35,7 +37,7 @@
       "title": "Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1864049,
             "language": "C++",
             "last_commit": "2025-10-11T18:29:12Z",
             "owner": "goldendict",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 850086972,
             "language": "C++",
             "last_commit": "2026-08-17T05:12:47Z",
             "owner": "Dante-Leoncini",
             "repo": "Whisk3D-Editor",
-            "stars": 278
+            "stars": 280
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2626317,
             "language": "C++",
             "last_commit": "2022-06-03T16:13:44Z",
             "owner": "smurfy",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35068348,
             "language": "C++",
             "last_commit": "2019-01-27T21:31:44Z",
             "owner": "marxoft",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21772640,
             "language": "QML",
             "last_commit": "2016-03-23T14:53:17Z",
             "owner": "machinekoder",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33744036,
             "language": "C++",
             "last_commit": "2015-04-10T18:26:11Z",
             "owner": "d3ru",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26337237,
             "language": null,
             "last_commit": "2014-04-25T11:14:37Z",
             "owner": "ltomuta",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294767798,
             "language": "C++",
             "last_commit": "2020-09-11T21:45:56Z",
             "owner": "Allstar12345",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80249241,
             "language": "C++",
             "last_commit": "2017-04-15T18:15:50Z",
             "owner": "vitalii17",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55911257,
             "language": "C++",
             "last_commit": "2018-09-08T17:00:36Z",
             "owner": "vitalii17",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33267791,
             "language": "C++",
             "last_commit": "2015-04-02T19:49:08Z",
             "owner": "fedor4ever",
@@ -195,7 +208,7 @@
       "title": "Native Software"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -204,11 +217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21935031,
             "language": null,
-            "last_commit": "2026-08-04T08:08:58Z",
+            "last_commit": "2026-08-19T05:32:17Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72821
+            "stars": 72829
           }
         },
         {
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 665806920,
             "language": "Java",
             "last_commit": "2026-07-28T03:38:34Z",
             "owner": "hstsethi",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80641013,
             "language": "CSS",
             "last_commit": "2019-12-05T23:33:09Z",
             "owner": "mrRosset",
@@ -243,7 +259,7 @@
       "title": "Related Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71911070,
             "language": "C++",
             "last_commit": "2020-11-05T15:11:39Z",
             "owner": "mrRosset",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83930081,
             "language": "C++",
             "last_commit": "2021-04-22T19:19:38Z",
             "owner": "Florin9doi",
@@ -277,7 +295,7 @@
       "title": "Reverse Engineering"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -286,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38741261,
             "language": null,
             "last_commit": "2015-07-08T12:21:04Z",
             "owner": "trufanov-nok",
@@ -300,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2000486,
             "language": null,
             "last_commit": "2011-07-05T13:11:45Z",
             "owner": "sapandiwakar",
@@ -312,8 +332,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:40:15.538Z",
+    "last_updated": "2026-08-19T12:56:18.476Z",
     "original_repository": "hstsethi/awesome-symbian",
+    "original_repository_id": 963730468,
     "original_repository_sha": "c6ee7f5b458239136fdd355e81cfab049d7a7a10",
     "enhanced_repository": "enhansome/enhansome-symbian",
     "enhanced_repository_description": null,
