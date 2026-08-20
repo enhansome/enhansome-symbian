@@ -66,7 +66,7 @@
             "last_commit": "2026-08-17T05:12:47Z",
             "owner": "Dante-Leoncini",
             "repo": "Whisk3D-Editor",
-            "stars": 280
+            "stars": 281
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-19T05:32:17Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72835
+            "stars": 72850
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-07-28T03:38:34Z",
             "owner": "hstsethi",
             "repo": "awesome-j2me",
-            "stars": 408
+            "stars": 409
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2019-12-05T23:33:09Z",
             "owner": "mrRosset",
             "repo": "Symbian-Archive",
-            "stars": 186
+            "stars": 187
           }
         }
       ],
@@ -324,7 +324,7 @@
             "last_commit": "2011-07-05T13:11:45Z",
             "owner": "sapandiwakar",
             "repo": "Symbian-Application-Development-Tutorials",
-            "stars": 10
+            "stars": 11
           }
         }
       ],
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:41:01.286Z",
+    "last_updated": "2026-08-20T23:43:32.448Z",
     "original_repository": "hstsethi/awesome-symbian",
     "original_repository_id": 963730468,
     "original_repository_sha": "c6ee7f5b458239136fdd355e81cfab049d7a7a10",
