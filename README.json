@@ -51,7 +51,7 @@
             "last_commit": "2025-10-11T18:29:12Z",
             "owner": "goldendict",
             "repo": "goldendict",
-            "stars": 6649
+            "stars": 6648
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-22T08:36:07Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72953
+            "stars": 72960
           }
         },
         {
@@ -332,9 +332,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:32:40.835Z",
-    "original_repository": "hstsethi/awesome-symbian",
-    "original_repository_id": 963730468,
+    "last_updated": "2026-08-27T12:05:08.210Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 963730468,
+      "language": "Java",
+      "last_commit": "2026-05-17T09:58:48Z",
+      "owner": "hstsethi",
+      "repo": "awesome-symbian",
+      "stars": 137
+    },
     "original_repository_sha": "c6ee7f5b458239136fdd355e81cfab049d7a7a10",
     "enhanced_repository": "enhansome/enhansome-symbian",
     "enhanced_repository_description": null,
