@@ -16,7 +16,8 @@
             "owner": "fedor4ever",
             "repo": "GCC4Symbian",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "djbozkosz",
             "repo": "Symbian-HomeScreen-Widget-QML",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         }
       ],
       "title": "Development"
@@ -52,7 +54,8 @@
             "owner": "goldendict",
             "repo": "goldendict",
             "stars": 6648
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "Dante-Leoncini",
             "repo": "Whisk3D-Editor",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "smurfy",
             "repo": "fahrplan",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "marxoft",
             "repo": "cutetube2",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "machinekoder",
             "repo": "QRemoteControl-Client",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "d3ru",
             "repo": "FShell",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "ltomuta",
             "repo": "filelist",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Allstar12345",
             "repo": "Star-Browser-Symbian",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "vitalii17",
             "repo": "NanoCounter",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "vitalii17",
             "repo": "RotateIt",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "fedor4ever",
             "repo": "internet-radio",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         }
       ],
       "title": "Native Software"
@@ -222,8 +235,9 @@
             "last_commit": "2026-08-22T08:36:07Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72960
-          }
+            "stars": 72973
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "hstsethi",
             "repo": "awesome-j2me",
             "stars": 410
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "mrRosset",
             "repo": "Symbian-Archive",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         }
       ],
       "title": "Related Projects"
@@ -274,7 +290,8 @@
             "owner": "mrRosset",
             "repo": "E32Explorer",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "Florin9doi",
             "repo": "rombrowser",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         }
       ],
       "title": "Reverse Engineering"
@@ -310,7 +328,8 @@
             "owner": "trufanov-nok",
             "repo": "SymbianBook_ru",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         },
         {
           "node_type": "item",
@@ -325,14 +344,15 @@
             "owner": "sapandiwakar",
             "repo": "Symbian-Application-Development-Tutorials",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
         }
       ],
       "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:08.210Z",
+    "last_updated": "2026-08-28T06:57:02.890Z",
     "original_repository_info": {
       "archived": false,
       "id": 963730468,
