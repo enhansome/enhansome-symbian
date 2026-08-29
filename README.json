@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bleedind-edge GCC for Symbian",
+            "homepage": null,
             "id": 59125055,
             "language": "C",
+            "license": null,
             "last_commit": "2022-06-15T18:25:48Z",
+            "open_issues": 3,
             "owner": "fedor4ever",
             "repo": "GCC4Symbian",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Homescreen widget template for Symbian v5, Anna, Belle using Qt 4.7.4, QML, C++.",
+            "homepage": "http://www.djbozkosz.wz.cz/",
             "id": 40208861,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-07-10T16:27:20Z",
+            "open_issues": 0,
             "owner": "djbozkosz",
             "repo": "Symbian-HomeScreen-Widget-QML",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cpp",
+              "qt",
+              "symbian",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         }
@@ -48,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.",
+            "homepage": "http://goldendict.org/",
             "id": 1864049,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-11T18:29:12Z",
+            "open_issues": 614,
             "owner": "goldendict",
             "repo": "goldendict",
-            "stars": 6648
+            "stars": 6648,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -64,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Whisk 3D (ex Blendersito) es un Clon 100% libre de blender",
+            "homepage": null,
             "id": 850086972,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-17T05:12:47Z",
+            "open_issues": 1,
             "owner": "Dante-Leoncini",
             "repo": "Whisk3D-Editor",
-            "stars": 286
+            "stars": 286,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -80,12 +105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QT Application for Public transportation",
+            "homepage": null,
             "id": 2626317,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2022-06-03T16:13:44Z",
+            "open_issues": 74,
             "owner": "smurfy",
             "repo": "fahrplan",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -96,12 +126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully-featured client for YouTube, Dailymotion and Vimeo that can be extended via plugins.",
+            "homepage": null,
             "id": 35068348,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2019-01-27T21:31:44Z",
+            "open_issues": 18,
             "owner": "marxoft",
             "repo": "cutetube2",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -112,12 +147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QRemoteControl is a remote control application for your mobile phone.",
+            "homepage": null,
             "id": 21772640,
             "language": "QML",
+            "license": null,
             "last_commit": "2016-03-23T14:53:17Z",
+            "open_issues": 1,
             "owner": "machinekoder",
             "repo": "QRemoteControl-Client",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -128,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is \"bash + telnet + command-line\" for OS Symbian S60 3rd and S^3",
+            "homepage": "http://fshell.sourceforge.net/documentation/fshell/index.html",
             "id": 33744036,
             "language": "C++",
+            "license": null,
             "last_commit": "2015-04-10T18:26:11Z",
+            "open_issues": 0,
             "owner": "d3ru",
             "repo": "FShell",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -144,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Nokia Developer Qt Quick example application for browsing multimedia files on a Symbian device.",
+            "homepage": null,
             "id": 26337237,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2014-04-25T11:14:37Z",
+            "open_issues": 0,
             "owner": "ltomuta",
             "repo": "filelist",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -160,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Star Browser for Symbian OS, the most popular Qt based browser for Symbian Belle devices",
+            "homepage": null,
             "id": 294767798,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-09-11T21:45:56Z",
+            "open_issues": 0,
             "owner": "Allstar12345",
             "repo": "Star-Browser-Symbian",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -176,12 +231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Qt-based small application for Symbian that allow to count the number of clicks. ",
+            "homepage": null,
             "id": 80249241,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2017-04-15T18:15:50Z",
+            "open_issues": 0,
             "owner": "vitalii17",
             "repo": "NanoCounter",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -192,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Qt-based Symbian application for rotation photo to any angle. Useful for correct the \"littered horizon\" directly on smartphone.",
+            "homepage": null,
             "id": 55911257,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2018-09-08T17:00:36Z",
+            "open_issues": 0,
             "owner": "vitalii17",
             "repo": "RotateIt",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -208,12 +273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is sumodule of https://github.com/fedor4ever/symbian",
+            "homepage": null,
             "id": 33267791,
             "language": "C++",
+            "license": null,
             "last_commit": "2015-04-02T19:49:08Z",
+            "open_issues": 0,
             "owner": "fedor4ever",
             "repo": "internet-radio",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         }
@@ -230,12 +300,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+            "homepage": "http://fffaraz.github.io/awesome-cpp/",
             "id": 21935031,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-22T08:36:07Z",
+            "open_issues": 312,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72973
+            "stars": 72983,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "c",
+              "c-plus-plus",
+              "cpp",
+              "cpp-library",
+              "cppcon",
+              "libraries",
+              "list",
+              "lists",
+              "programming-tutorial",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -246,12 +334,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
+            "homepage": null,
             "id": 665806920,
             "language": "Java",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-28T03:38:34Z",
+            "open_issues": 1,
             "owner": "hstsethi",
             "repo": "awesome-j2me",
-            "stars": 410
+            "stars": 410,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cldc",
+              "dumbphone",
+              "hacktoberfest",
+              "j2me",
+              "j2me-emulator",
+              "j2me-platform",
+              "java",
+              "java-platform",
+              "javame",
+              "keypad",
+              "midlet",
+              "midp",
+              "nokia",
+              "resources",
+              "retrogaming",
+              "s40",
+              "samsung",
+              "symbian"
+            ]
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -262,12 +376,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small website to archive Symbian-related dev tools & doc. ",
+            "homepage": "https://mrrosset.github.io/Symbian-Archive/",
             "id": 80641013,
             "language": "CSS",
+            "license": null,
             "last_commit": "2019-12-05T23:33:09Z",
+            "open_issues": 35,
             "owner": "mrRosset",
             "repo": "Symbian-Archive",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "archive",
+              "documentation",
+              "sdk",
+              "symbian"
+            ]
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         }
@@ -284,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple tool to visualize the different parts of an Symbian OS E32Image and TRomImage",
+            "homepage": null,
             "id": 71911070,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-11-05T15:11:39Z",
+            "open_issues": 1,
             "owner": "mrRosset",
             "repo": "E32Explorer",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -300,12 +429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 83930081,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-04-22T19:19:38Z",
+            "open_issues": 0,
             "owner": "Florin9doi",
             "repo": "rombrowser",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         }
@@ -322,12 +456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My old book about programming for Symbian 9.x based smartphones in russian",
+            "homepage": null,
             "id": 38741261,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-08T12:21:04Z",
+            "open_issues": 0,
             "owner": "trufanov-nok",
             "repo": "SymbianBook_ru",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         },
@@ -338,12 +477,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Step by step tutorials to create your first application for Symbian.",
+            "homepage": "http://pulkitgoyal.wordpress.com/2011/05/24/step-by-step-tutorial-for-your-first-symbian-application/",
             "id": 2000486,
             "language": null,
+            "license": null,
             "last_commit": "2011-07-05T13:11:45Z",
+            "open_issues": 0,
             "owner": "sapandiwakar",
             "repo": "Symbian-Application-Development-Tutorials",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
         }
@@ -352,15 +496,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:02.890Z",
+    "last_updated": "2026-08-29T04:13:36.200Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
+      "homepage": null,
       "id": 963730468,
       "language": "Java",
+      "license": "CC0-1.0",
       "last_commit": "2026-05-17T09:58:48Z",
+      "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-symbian",
-      "stars": 137
+      "stars": 137,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cpp",
+        "eikon",
+        "epoc",
+        "flash",
+        "flash-lite",
+        "hacktoberfest",
+        "j2me",
+        "midp",
+        "n-gage",
+        "ngage",
+        "nokia",
+        "qt",
+        "s40",
+        "s60",
+        "sony-ericsson",
+        "symbian",
+        "symbiancpp",
+        "uiq"
+      ]
     },
     "original_repository_sha": "c6ee7f5b458239136fdd355e81cfab049d7a7a10",
     "enhanced_repository": "enhansome/enhansome-symbian",
