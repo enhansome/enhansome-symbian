@@ -89,11 +89,11 @@
             "id": 850086972,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:18:33Z",
+            "last_commit": "2026-09-05T14:08:24Z",
             "open_issues": 1,
             "owner": "Dante-Leoncini",
             "repo": "Whisk3D-Editor",
-            "stars": 288,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
@@ -305,11 +305,11 @@
             "id": 21935031,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-01T06:18:33Z",
-            "open_issues": 311,
+            "last_commit": "2026-09-05T20:26:41Z",
+            "open_issues": 310,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 73124,
+            "stars": 73145,
             "topics": [
               "awesome",
               "awesome-list",
@@ -343,7 +343,7 @@
             "open_issues": 1,
             "owner": "hstsethi",
             "repo": "awesome-j2me",
-            "stars": 413,
+            "stars": 415,
             "topics": [
               "awesome",
               "awesome-list",
@@ -496,7 +496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:02:01.683Z",
+    "last_updated": "2026-09-06T01:02:09.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
