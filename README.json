@@ -72,7 +72,7 @@
             "open_issues": 615,
             "owner": "goldendict",
             "repo": "goldendict",
-            "stars": 6657,
+            "stars": 6658,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
@@ -177,7 +177,28 @@
             "open_issues": 0,
             "owner": "d3ru",
             "repo": "FShell",
-            "stars": 8,
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:57:02.890Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Star Browser",
+          "description": "A Qt-based web browser for Symbian Anna/Belle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Star Browser for Symbian OS, the most popular Qt based browser for Symbian Belle devices",
+            "homepage": null,
+            "id": 294767798,
+            "language": "C++",
+            "license": null,
+            "last_commit": "2020-09-11T21:45:56Z",
+            "open_issues": 0,
+            "owner": "Allstar12345",
+            "repo": "Star-Browser-Symbian",
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
@@ -199,27 +220,6 @@
             "owner": "ltomuta",
             "repo": "filelist",
             "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:57:02.890Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Star Browser",
-          "description": "A Qt-based web browser for Symbian Anna/Belle.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Star Browser for Symbian OS, the most popular Qt based browser for Symbian Belle devices",
-            "homepage": null,
-            "id": 294767798,
-            "language": "C++",
-            "license": null,
-            "last_commit": "2020-09-11T21:45:56Z",
-            "open_issues": 0,
-            "owner": "Allstar12345",
-            "repo": "Star-Browser-Symbian",
-            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
@@ -306,10 +306,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-05T20:26:41Z",
-            "open_issues": 310,
+            "open_issues": 311,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 73199,
+            "stars": 73226,
             "topics": [
               "awesome",
               "awesome-list",
@@ -343,7 +343,7 @@
             "open_issues": 1,
             "owner": "hstsethi",
             "repo": "awesome-j2me",
-            "stars": 416,
+            "stars": 417,
             "topics": [
               "awesome",
               "awesome-list",
@@ -496,7 +496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:07:56.696Z",
+    "last_updated": "2026-09-11T01:10:08.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -508,7 +508,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-symbian",
-      "stars": 138,
+      "stars": 139,
       "topics": [
         "awesome",
         "awesome-list",
