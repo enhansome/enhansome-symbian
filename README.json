@@ -309,7 +309,7 @@
             "open_issues": 310,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 73536,
+            "stars": 73550,
             "topics": [
               "awesome",
               "awesome-list",
@@ -343,7 +343,7 @@
             "open_issues": 1,
             "owner": "hstsethi",
             "repo": "awesome-j2me",
-            "stars": 425,
+            "stars": 426,
             "topics": [
               "awesome",
               "awesome-list",
@@ -496,7 +496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:09:50.009Z",
+    "last_updated": "2026-10-01T02:11:48.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -508,7 +508,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-symbian",
-      "stars": 143,
+      "stars": 144,
       "topics": [
         "awesome",
         "awesome-list",
