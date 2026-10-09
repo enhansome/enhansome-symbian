@@ -44,7 +44,7 @@
 
 ## Emulators
 
-* [EKA2L1](https://github.com/EKA2L1/EKA2L1) ⭐ 2,029 | 🐛 118 | 🌐 C++ | 📅 2026-10-05 - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
+* [EKA2L1](https://github.com/EKA2L1/EKA2L1) ⭐ 2,031 | 🐛 118 | 🌐 C++ | 📅 2026-10-05 - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
 
 ***
 
@@ -57,7 +57,7 @@
 ## Native Software
 
 * [Dictionaries](https://github.com/goldendict/goldendict/issues/765) ⭐ 6,690 | 🐛 616 | 🌐 C++ | 📅 2025-10-11 - A collection of open-source dictionaries for Symbian OS.
-* [Whisk3D](https://github.com/Dante-Leoncini/Whisk3D) ⭐ 298 | 🐛 1 | 🌐 C++ | 📅 2026-10-02 - 2D/3D creation tool for modeling, rendering, animation, and game development.
+* [Whisk3D](https://github.com/Dante-Leoncini/Whisk3D) ⭐ 299 | 🐛 1 | 🌐 C++ | 📅 2026-10-09 - 2D/3D creation tool for modeling, rendering, animation, and game development.
 * [fahrplan](https://github.com/smurfy/fahrplan) ⭐ 55 | 🐛 74 | 🌐 C++ | 📅 2022-06-03 - Public transport schedule viewer with offline support.
 * [CuteTube](https://github.com/marxoft/cutetube2/) ⭐ 25 | 🐛 18 | 🌐 C++ | 📅 2019-01-27 - A YouTube client for Symbian OS.
 * [QRemoteControl-Client](https://github.com/strahlex/QRemoteControl-Client) ⭐ 16 | 🐛 1 | 🌐 QML | 📅 2016-03-23 - A remote control client application for Symbian.
@@ -83,7 +83,7 @@
 
 ## Related Projects
 
-* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 73,673 | 🐛 311 | 📅 2026-10-07 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 73,700 | 🐛 311 | 📅 2026-10-07 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) ⭐ 427 | 🐛 1 | 🌐 Java | 📅 2026-07-28 - An awesome list about Java Platform Micro Edition (J2ME), a Java specification for small computing devices.
 * [Symbian Archive](https://github.com/mrRosset/Symbian-Archive) ⭐ 188 | 🐛 36 | 🌐 CSS | 📅 2019-12-05 - Archive and website for Symbian-related downloads.
 * [nnproject.cc](https://nnproject.cc) - Website of nnproject. Curated list of Symbian and J2ME-related resources.
@@ -140,4 +140,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
