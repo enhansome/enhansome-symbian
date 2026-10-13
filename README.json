@@ -89,7 +89,7 @@
             "id": 850086972,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-11T03:02:31Z",
+            "last_commit": "2026-10-12T15:55:06Z",
             "open_issues": 1,
             "owner": "Dante-Leoncini",
             "repo": "Whisk3D-Editor",
@@ -306,10 +306,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-11T00:10:01Z",
-            "open_issues": 312,
+            "open_issues": 311,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 73750,
+            "stars": 73777,
             "topics": [
               "awesome",
               "awesome-list",
@@ -496,7 +496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:27:31.394Z",
+    "last_updated": "2026-10-13T03:36:12.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -504,11 +504,11 @@
       "id": 963730468,
       "language": "Java",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-09T08:52:35Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-12T04:44:16Z",
+      "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-symbian",
-      "stars": 144,
+      "stars": 145,
       "topics": [
         "awesome",
         "awesome-list",
@@ -532,7 +532,7 @@
         "uiq"
       ]
     },
-    "original_repository_sha": "1019523bd6e40fcac3efa20f3a0771cef4baa789",
+    "original_repository_sha": "ed79fd54fc5c46640faf65adac39d70f3cdf0a1b",
     "enhanced_repository": "enhansome/enhansome-symbian",
     "enhanced_repository_description": null,
     "title": "Awesome Symbian with stars"

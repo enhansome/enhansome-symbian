@@ -44,7 +44,7 @@
 
 ## Emulators
 
-* [EKA2L1](https://github.com/EKA2L1/EKA2L1) ⭐ 2,033 | 🐛 118 | 🌐 C++ | 📅 2026-10-05 - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
+* [EKA2L1](https://github.com/EKA2L1/EKA2L1) ⭐ 2,034 | 🐛 118 | 🌐 C++ | 📅 2026-10-05 - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
 * [Symbian Seance](https://binarybacktrace.com/tools/symbian_seance) - Browser-based N-Gage/Symbian emulator and debugger (alpha): boots a device ROM, steps through and inspects it, reads N-Gage containers, and runs a bundled CC0 N-Gage program with no files needed.
 
 ***
@@ -58,7 +58,7 @@
 ## Native Software
 
 * [Dictionaries](https://github.com/goldendict/goldendict/issues/765) ⭐ 6,698 | 🐛 616 | 🌐 C++ | 📅 2025-10-11 - A collection of open-source dictionaries for Symbian OS.
-* [Whisk3D](https://github.com/Dante-Leoncini/Whisk3D) ⭐ 300 | 🐛 1 | 🌐 C++ | 📅 2026-10-11 - 2D/3D creation tool for modeling, rendering, animation, and game development.
+* [Whisk3D](https://github.com/Dante-Leoncini/Whisk3D) ⭐ 300 | 🐛 1 | 🌐 C++ | 📅 2026-10-12 - 2D/3D creation tool for modeling, rendering, animation, and game development.
 * [fahrplan](https://github.com/smurfy/fahrplan) ⭐ 55 | 🐛 74 | 🌐 C++ | 📅 2022-06-03 - Public transport schedule viewer with offline support.
 * [CuteTube](https://github.com/marxoft/cutetube2/) ⭐ 25 | 🐛 18 | 🌐 C++ | 📅 2019-01-27 - A YouTube client for Symbian OS.
 * [QRemoteControl-Client](https://github.com/strahlex/QRemoteControl-Client) ⭐ 16 | 🐛 1 | 🌐 QML | 📅 2016-03-23 - A remote control client application for Symbian.
@@ -84,7 +84,7 @@
 
 ## Related Projects
 
-* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 73,750 | 🐛 312 | 📅 2026-10-11 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 73,777 | 🐛 311 | 📅 2026-10-11 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) ⭐ 428 | 🐛 1 | 🌐 Java | 📅 2026-07-28 - An awesome list about Java Platform Micro Edition (J2ME), a Java specification for small computing devices.
 * [Symbian Archive](https://github.com/mrRosset/Symbian-Archive) ⭐ 188 | 🐛 36 | 🌐 CSS | 📅 2019-12-05 - Archive and website for Symbian-related downloads.
 * [nnproject.cc](https://nnproject.cc) - Website of nnproject. Curated list of Symbian and J2ME-related resources.
@@ -95,7 +95,7 @@
 
 * [E32Explorer](https://github.com/mrRosset/E32Explorer) ⭐ 13 | 🐛 1 | 🌐 C++ | 📅 2020-11-05 - A tool that visualizes different parts of a Symbian OS E32Image, including preliminary support for the TRomImage format.
 * [RomBrowser](https://github.com/Florin9doi/rombrowser) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2021-04-22 - A utility for visualizing ROM dump contents. ROM images can be produced using [romdump](https://github.com/Florin9doi/romdump) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2021-04-20 or [SDumper](https://github.com/Florin9doi/sdumper) <sup>(dead)</sup>.
-* [Symbian ROM Explorer](https://binarybacktrace.com/tools/symbian_rom_explorer) - Reads a Symbian device ROM in the browser: the z: directory tree with each entry's iType and the 269-row exec dispatch table.
+* [Symbian Seance](https://binarybacktrace.com/tools/symbian_seance?view=rom) - Reads a Symbian device ROM in the browser: the z: directory tree with each entry's iType, the 269-row exec dispatch table and the evidence behind each exec; the ROM explorer is now a view inside the emulator/debugger workbench.
 
 ***
 
@@ -142,4 +142,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
