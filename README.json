@@ -72,7 +72,7 @@
             "open_issues": 616,
             "owner": "goldendict",
             "repo": "goldendict",
-            "stars": 6707,
+            "stars": 6708,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
@@ -305,11 +305,11 @@
             "id": 21935031,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-11T00:10:01Z",
-            "open_issues": 314,
+            "last_commit": "2026-10-26T08:51:54Z",
+            "open_issues": 313,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 74029,
+            "stars": 74054,
             "topics": [
               "awesome",
               "awesome-list",
@@ -496,7 +496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:15:40.911Z",
+    "last_updated": "2026-10-27T02:07:49.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -508,7 +508,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-symbian",
-      "stars": 146,
+      "stars": 148,
       "topics": [
         "awesome",
         "awesome-list",
