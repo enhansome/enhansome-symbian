@@ -44,7 +44,7 @@
 
 ## Emulators
 
-* [EKA2L1](https://github.com/EKA2L1/EKA2L1) ⭐ 2,075 | 🐛 132 | 🌐 C++ | 📅 2026-11-12 - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
+* [EKA2L1](https://github.com/EKA2L1/EKA2L1) ⭐ 2,076 | 🐛 132 | 🌐 C++ | 📅 2026-11-13 - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
 * [Symbian Seance](https://binarybacktrace.com/tools/symbian_seance) - Browser-based N-Gage/Symbian emulator and debugger (alpha): boots a device ROM, steps through and inspects it, reads N-Gage containers, and runs a bundled CC0 N-Gage program with no files needed.
 
 ***
@@ -84,8 +84,8 @@
 
 ## Related Projects
 
-* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 74,387 | 🐛 288 | 📅 2026-11-11 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-* [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) ⭐ 437 | 🐛 2 | 🌐 Java | 📅 2026-11-02 - An awesome list about Java Platform Micro Edition (J2ME), a Java specification for small computing devices.
+* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 74,405 | 🐛 289 | 📅 2026-11-11 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+* [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) ⭐ 438 | 🐛 1 | 🌐 Java | 📅 2026-11-13 - An awesome list about Java Platform Micro Edition (J2ME), a Java specification for small computing devices.
 * [Symbian Archive](https://github.com/mrRosset/Symbian-Archive) ⭐ 188 | 🐛 36 | 🌐 CSS | 📅 2019-12-05 - Archive and website for Symbian-related downloads.
 * [nnproject.cc](https://nnproject.cc) - Website of nnproject. Curated list of Symbian and J2ME-related resources.
 
@@ -142,4 +142,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
