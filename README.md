@@ -44,7 +44,7 @@
 
 ## Emulators
 
-* [EKA2L1](https://github.com/EKA2L1/EKA2L1) ⭐ 2,076 | 🐛 133 | 🌐 C++ | 📅 2026-11-15 - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
+* [EKA2L1](https://github.com/EKA2L1/EKA2L1) ⭐ 2,076 | 🐛 132 | 🌐 C++ | 📅 2026-11-15 - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
 * [Symbian Seance](https://binarybacktrace.com/tools/symbian_seance) - Browser-based N-Gage/Symbian emulator and debugger (alpha): boots a device ROM, steps through and inspects it, reads N-Gage containers, and runs a bundled CC0 N-Gage program with no files needed.
 
 ***
@@ -57,7 +57,7 @@
 
 ## Native Software
 
-* [Dictionaries](https://github.com/goldendict/goldendict/issues/765) ⭐ 6,734 | 🐛 616 | 🌐 C++ | 📅 2025-10-11 - A collection of open-source dictionaries for Symbian OS.
+* [Dictionaries](https://github.com/goldendict/goldendict/issues/765) ⭐ 6,735 | 🐛 616 | 🌐 C++ | 📅 2025-10-11 - A collection of open-source dictionaries for Symbian OS.
 * [Whisk3D](https://github.com/Dante-Leoncini/Whisk3D) ⭐ 311 | 🐛 3 | 🌐 C++ | 📅 2026-11-15 - 2D/3D creation tool for modeling, rendering, animation, and game development.
 * [fahrplan](https://github.com/smurfy/fahrplan) ⭐ 55 | 🐛 74 | 🌐 C++ | 📅 2022-06-03 - Public transport schedule viewer with offline support.
 * [CuteTube](https://github.com/marxoft/cutetube2/) ⭐ 25 | 🐛 18 | 🌐 C++ | 📅 2019-01-27 - A YouTube client for Symbian OS.
@@ -84,8 +84,8 @@
 
 ## Related Projects
 
-* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 74,422 | 🐛 289 | 📅 2026-11-11 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-* [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) ⭐ 438 | 🐛 2 | 🌐 Java | 📅 2026-11-13 - An awesome list about Java Platform Micro Edition (J2ME), a Java specification for small computing devices.
+* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 74,448 | 🐛 289 | 📅 2026-11-11 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+* [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) ⭐ 438 | 🐛 1 | 🌐 Java | 📅 2026-11-15 - An awesome list about Java Platform Micro Edition (J2ME), a Java specification for small computing devices.
 * [Symbian Archive](https://github.com/mrRosset/Symbian-Archive) ⭐ 188 | 🐛 36 | 🌐 CSS | 📅 2019-12-05 - Archive and website for Symbian-related downloads.
 * [nnproject.cc](https://nnproject.cc) - Website of nnproject. Curated list of Symbian and J2ME-related resources.
 
@@ -94,7 +94,7 @@
 ## Reverse Engineering
 
 * [E32Explorer](https://github.com/mrRosset/E32Explorer) ⭐ 13 | 🐛 1 | 🌐 C++ | 📅 2020-11-05 - A tool that visualizes different parts of a Symbian OS E32Image, including preliminary support for the TRomImage format.
-* [RomBrowser](https://github.com/Florin9doi/rombrowser) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2021-04-22 - A utility for visualizing ROM dump contents. ROM images can be produced using [romdump](https://github.com/Florin9doi/romdump) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2021-04-20 or [SDumper](https://github.com/Florin9doi/sdumper) <sup>(dead)</sup>.
+* [RomBrowser](https://github.com/Florin9doi/rombrowser) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2021-04-22 - A utility for visualizing ROM dump contents. ROM images can be produced using [romdump](https://github.com/Florin9doi/romdump) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2021-04-20.
 * [Symbian Seance](https://binarybacktrace.com/tools/symbian_seance?view=rom) - Reads a Symbian device ROM in the browser: the z: directory tree with each entry's iType, the 269-row exec dispatch table and the evidence behind each exec; the ROM explorer is now a view inside the emulator/debugger workbench.
 
 ***
@@ -128,8 +128,6 @@
 * [E32Image (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image) - File format specifications for the E32Image (.app) files.
 * [E32Image explanation](http://web.archive.org/web/20070616175615/http://www.antonypranata.com/articles/e32fileformat.html) - An explanation of the E32Image format.
 * [Symbian Sis file before Symbian 9.1 (.sis)](https://web.archive.org/web/20151028130518/http://www.thoukydides.webspace.virginmedia.com/sis.html) - Details on the Sis file format prior to Symbian 9.1.
-* [Symbian Multibitmap (.mbm)](http://fileformats.archiveteam.org/wiki/EPOC_MBM) - Information about the Symbian Multibitmap (.mbm) format.
-* [Symbian Application Information File (.aif)](http://fileformats.archiveteam.org/wiki/EPOC_AIF) - Specifications for the Symbian Application Information File (.aif).
 * [Qt Support for Symbian](https://wiki.qt.io/Support_for_Symbian) - Official Qt wiki page for Symbian. Contains detailed information on what versions are supported on which devices.
 * [The Accredited Symbian Developer Primer: Fundamentals of Symbian OS](https://www.wiley.com/en-us/The+Accredited+Symbian+Developer+Primer%3A+Fundamentals+of+Symbian+OS-p-9780470058695) - Official textbook for Symbian OS development.
 * [Quick Recipes on Symbian OS: Mastering C++ Smartphone Development](https://www.oreilly.com/library/view/quick-recipes-on/9780470997833/) - Fast-paced book covering both S60 and UIQ. Assumes a strong foundation in C++.
@@ -142,4 +140,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
