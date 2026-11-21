@@ -69,10 +69,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2025-10-11T18:29:12Z",
-            "open_issues": 616,
+            "open_issues": 617,
             "owner": "goldendict",
             "repo": "goldendict",
-            "stars": 6735,
+            "stars": 6738,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:02.890Z"
@@ -89,7 +89,7 @@
             "id": 850086972,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-20T03:36:57Z",
+            "last_commit": "2026-11-20T05:41:38Z",
             "open_issues": 3,
             "owner": "Dante-Leoncini",
             "repo": "Whisk3D-Editor",
@@ -305,11 +305,11 @@
             "id": 21935031,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-20T01:55:28Z",
-            "open_issues": 290,
+            "last_commit": "2026-11-20T04:55:36Z",
+            "open_issues": 288,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 74518,
+            "stars": 74535,
             "topics": [
               "awesome",
               "awesome-list",
@@ -343,7 +343,7 @@
             "open_issues": 1,
             "owner": "hstsethi",
             "repo": "awesome-j2me",
-            "stars": 440,
+            "stars": 442,
             "topics": [
               "awesome",
               "awesome-list",
@@ -496,7 +496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T04:01:05.719Z",
+    "last_updated": "2026-11-21T04:00:06.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -508,7 +508,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-symbian",
-      "stars": 150,
+      "stars": 151,
       "topics": [
         "awesome",
         "awesome-list",
