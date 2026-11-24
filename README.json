@@ -306,10 +306,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-20T04:55:36Z",
-            "open_issues": 288,
+            "open_issues": 284,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 74575,
+            "stars": 74596,
             "topics": [
               "awesome",
               "awesome-list",
@@ -496,7 +496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:44:27.018Z",
+    "last_updated": "2026-11-24T06:58:20.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
@@ -508,7 +508,7 @@
       "open_issues": 1,
       "owner": "hstsethi",
       "repo": "awesome-symbian",
-      "stars": 151,
+      "stars": 152,
       "topics": [
         "awesome",
         "awesome-list",
