@@ -44,7 +44,7 @@
 
 ## Emulators
 
-* [EKA2L1](https://github.com/EKA2L1/EKA2L1) ⭐ 2,086 | 🐛 135 | 🌐 C++ | 📅 2026-11-27 - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
+* [EKA2L1](https://github.com/EKA2L1/EKA2L1) ⭐ 2,088 | 🐛 135 | 🌐 C++ | 📅 2026-11-27 - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
 * [Symbian Seance](https://binarybacktrace.com/tools/symbian_seance) - Browser-based N-Gage/Symbian emulator and debugger (alpha): boots a device ROM, steps through and inspects it, reads N-Gage containers, and runs a bundled CC0 N-Gage program with no files needed.
 
 ***
@@ -57,8 +57,8 @@
 
 ## Native Software
 
-* [Dictionaries](https://github.com/goldendict/goldendict/issues/765) ⭐ 6,741 | 🐛 617 | 🌐 C++ | 📅 2025-10-11 - A collection of open-source dictionaries for Symbian OS.
-* [Whisk3D](https://github.com/Dante-Leoncini/Whisk3D) ⭐ 317 | 🐛 3 | 🌐 C++ | 📅 2026-11-26 - 2D/3D creation tool for modeling, rendering, animation, and game development.
+* [Dictionaries](https://github.com/goldendict/goldendict/issues/765) ⭐ 6,742 | 🐛 617 | 🌐 C++ | 📅 2025-10-11 - A collection of open-source dictionaries for Symbian OS.
+* [Whisk3D](https://github.com/Dante-Leoncini/Whisk3D) ⭐ 317 | 🐛 3 | 🌐 C++ | 📅 2026-11-28 - 2D/3D creation tool for modeling, rendering, animation, and game development.
 * [fahrplan](https://github.com/smurfy/fahrplan) ⭐ 55 | 🐛 74 | 🌐 C++ | 📅 2022-06-03 - Public transport schedule viewer with offline support.
 * [CuteTube](https://github.com/marxoft/cutetube2/) ⭐ 25 | 🐛 18 | 🌐 C++ | 📅 2019-01-27 - A YouTube client for Symbian OS.
 * [QRemoteControl-Client](https://github.com/strahlex/QRemoteControl-Client) ⭐ 16 | 🐛 1 | 🌐 QML | 📅 2016-03-23 - A remote control client application for Symbian.
@@ -84,7 +84,7 @@
 
 ## Related Projects
 
-* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 74,647 | 🐛 285 | 📅 2026-11-20 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+* [Awesome CPP](https://github.com/fffaraz/awesome-cpp) ⭐ 74,658 | 🐛 286 | 📅 2026-11-20 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) ⭐ 444 | 🐛 1 | 🌐 Java | 📅 2026-11-15 - An awesome list about Java Platform Micro Edition (J2ME), a Java specification for small computing devices.
 * [Symbian Archive](https://github.com/mrRosset/Symbian-Archive) ⭐ 188 | 🐛 36 | 🌐 CSS | 📅 2019-12-05 - Archive and website for Symbian-related downloads.
 * [nnproject.cc](https://nnproject.cc) - Website of nnproject. Curated list of Symbian and J2ME-related resources.
@@ -122,7 +122,7 @@
 
 ## Tutorials
 
-* [Symbian C++ by А. Н Труфанов](https://github.com/trufanov-nok/SymbianBook_ru) ⭐ 15 | 🐛 0 | 📅 2015-07-08 - A Russian book on C++ programming for Symbian 9.x, published in 2010.
+* [Symbian C++ by А. Н Труфанов](https://github.com/trufanov-nok/SymbianBook_ru) ⭐ 16 | 🐛 0 | 📅 2015-07-08 - A Russian book on C++ programming for Symbian 9.x, published in 2010.
 * [Step by step tutorial for your first Symbian Application](https://github.com/sapandiwakar/Symbian-Application-Development-Tutorials) ⭐ 11 | 🐛 0 | 📅 2011-07-05 - A tutorial to develop your first Symbian application.
 * [Create a sis app using python](http://www.mobilenin.com/pys60/info_standalone_application.htm) - A guide to create a .sis application using Python.
 * [E32Image (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image) - File format specifications for the E32Image (.app) files.
@@ -140,4 +140,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
